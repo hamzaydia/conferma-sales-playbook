@@ -850,7 +850,7 @@ e fa recuperare migliaia di euro al mese.
 
 ### 📊 TRACKER SETTIMANALE
 ```
-SETTIMANA: ___/___/2024
+SETTIMANA: ___/___/2025
 
 ┌──────────┬────────┬─────────┬────────┬──────────┐
 │  GIORNO  │ VISITE │ VENDITE │   NO   │ RIPASSI  │
@@ -1101,7 +1101,7 @@ INSIGHT: Focus su vertical con % più alto!
 ---
 
 *🚀 Documento creato per il Team Elite Vendite Conferma*
-*📅 Versione 2.0 Ultimate - Novembre 2024*
+*📅 Versione 2.0 Ultimate - Novembre 2025*
 *🎯 Target: 25%+ Conversione Garantita*
 *💰 Potenziale: €2.400-4.000/mese*
 
