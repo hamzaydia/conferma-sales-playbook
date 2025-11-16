@@ -69,7 +69,7 @@
 > "Conferma manda WhatsApp automatici ai clienti per ricordare gli appuntamenti e ricevere conferme."
 
 **LIVELLO 2 (Per chi vuole dettagli):**
-> "È un sistema che manda 3 promemoria automatici via WhatsApp (48h, 24h, 2h prima). Il cliente risponde SI o NO. Se dice NO, hai tempo di riempire lo slot. Se dice SI, sai che arriva."
+> "È un sistema che manda 2 promemoria automatici via WhatsApp (24h, 2h prima). Il cliente risponde SI o NO. Se dice NO, hai tempo di riempire lo slot. Se dice SI, sai che arriva."
 
 **LIVELLO 3 (Per tecnici/scettici):**
 > "Usa WhatsApp Business API ufficiale di Meta. Si connette in 5 minuti con QR code. Dashboard web che funziona su qualsiasi dispositivo. Capisce 47+ varianti di risposta in italiano. GDPR compliant, server europei."
@@ -227,7 +227,7 @@ e fa recuperare migliaia di euro al mese.
 **Il Pitch Core:**
 > "Ecco perché esiste Conferma. Semplicissimo:
 > 1. Lei inserisce l'appuntamento
-> 2. Sistema manda WhatsApp automatici: 48h, 24h, 2h prima
+> 2. Sistema manda WhatsApp automatici: 24h, 2h prima
 > 3. Cliente risponde SI o NO
 > 4. Se NO, lei riempie il buco
 > 5. Se SI, sa che arriva"
@@ -680,7 +680,7 @@ e fa recuperare migliaia di euro al mese.
 ├─────────────────────────────────────────┤
 │ "Elimino no-show con WhatsApp auto"    │
 │                                         │
-│ • 3 messaggi: 48h, 24h, 2h prima      │
+│ • 2 messaggi: 24h, 2h prima           │
 │ • Cliente risponde SI/NO               │
 │ • Lei riempie buchi in tempo          │
 │                                         │
